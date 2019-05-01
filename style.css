@@ -53,7 +53,14 @@ h1, h2 {
 h1 {
   color: #0D324D;
   font-size: 50px;
-
+}
+.iframe-container {
+  width: 1300px;
+  margin: 0 auto;
+}
+iframe {
+  width: 1280px;
+  height: 748px;
 }
 .icon-size {
   color: lightgrey;
